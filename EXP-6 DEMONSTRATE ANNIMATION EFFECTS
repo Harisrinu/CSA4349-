@@ -1,0 +1,36 @@
+<html>
+<head>
+<style> 
+div {
+  width: 100px;
+  height: 50px;
+  background-color: RED;
+  font-weight: bold;
+  position: relative;
+  animation: mymove 15s infinite;
+}
+
+#div1 {animation-timing-function: RM;}
+#div2 {animation-timing-function: JIN;}
+#div3 {animation-timing-function: SUGA;}
+#div4 {animation-timing-function: JHOPE;}
+#div5 {animation-timing-function: JIMIN;}
+#div6 {animation-timing-function: V;}
+#div7 {animation-timing-function:JK;}
+@keyframes mymove {
+  from {left: 0px;}
+  to {left: 300px;}
+}
+</style>
+</head>
+<body>
+
+<div id="div1">RM</div><br>
+<div id="div2">JIN</div><br>
+<div id="div3">SUGA</div><br>
+<div id="div4">JHOPE</div><br>
+<div id="div5">JIMIN</div><br>
+<div id="div6">V</div><br>
+<div id="div7">JK</div><br>
+</body>
+</html>
