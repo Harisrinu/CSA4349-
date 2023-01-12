@@ -1,0 +1,96 @@
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>My Title</title>
+    </head>
+    <body>
+
+  <header>
+    <a href="/" title="Go to home page">
+      <img src="bts.jpg" style="height:200px;width:200px;margin-left:200px;alt="Site logo">
+    </a>
+    <nav>
+      <ul>
+        <li><a href="#">heidi</a></li>
+        <li><a href="#">clara</a></li>
+        <li><a href="#">peter</a></li>
+        <li><a href="#">alm</a></li>
+      </ul>
+    </nav>
+    <form role="search" aria-label="site">
+      <label>
+        <span>Search</span>
+        <input type="search"/>
+      </label>
+      <button type="submit">Submit</button>
+    </form>
+  </header>
+
+  <nav>
+    <ul>
+      <li><a href="#">heidi</a></li>
+      <li><a href="#">alm</a></li>
+      <li><a href="#">clara</a></li>
+      <li><a href="#">peter</a></li>
+      <li><a href="#">grandfather</a></li>
+    </ul>
+  </nav>
+
+  <main>
+    <article>
+      <h1>Introduction</h1>
+      <p>The <header>  Heidi is five years old when her aunt Dete, who has raised Heidi since her parents' deaths four years earlier, takes Heidi to live with her formidable grandfather in the Swiss Alps. Dete has found a promising job in Frankfurt, but cannot leave while still Heidi's guardian, nor can she take Heidi with her. The only relative left is Heidi's grandfather, and in Dete's opinion, he should take some responsibility. Alm-Onji, as Heidi's grandfather is commonly known, has a fearsome reputation with the villagers of Dörfli, as rumors claim that in his youth he killed a man. Now he lives a solitary life with his dog Josef in a cabin halfway up the mountain. However, Heidi quickly wins her way into his heart with her enthusiasm and intelligence, firmly establishing herself in his life. She spends her days on the mountain top with the goatherd Peter, whose responsibility it is to take the villagers' goats to the high mountains for pasture, and her winters occasionally visiting Peter's grandmother, a blind old woman whose dream is to one day hear her cherished book of psalms read to her (which Peter cannot do since he failed to learn to read). Alm-Onji's misanthropy and seclusion prevents Heidi from going to school, of which she has no experience anyway, ultimately leaving her illiterate.</p>
+
+      <h2>Article secondary heading</h2>
+      <p>Main charatcers <article> Heidi (ハイジ, Haiji)
+Heidi, christened Adelheid, is 5 years old and an orphan at the time the story begins. The story eventually ends some three years later. Heidi's curiosity, enthusiasm, and intelligence charm most people and animals into friendship, with one notable exception being Ms. Rottenmeier, the housekeeper of the Sesemann family. Heidi's only relatives are her Aunt Dette, from her mother's side, and her paternal grandfather, the Alm-Onji.
+Alm-Onji (アルムおんじ, Arumu onji)
+The Alm-Onji, or Onji (Alm-Öhi in German), is never identified by any proper name. He is an old man, but still physically formidable, with a deep well of wisdom and mountain knowledge that he uses to survive the harsh conditions of the Swiss Alps. He is rumored to have killed a man in his youth, and is considered unaproachably stern; but he gradually comes out of his shell once Heidi is in his care. He is a skilled woodworker, creating bowls and assorted utensils out of wood, and provides milk for trade with the villagers.
+Peter (ペーター, Pētā)
+Peter is an 11-year-old goatherd who is responsible for caring for the village goats during the summer. He lives with his mother and his blind grandmother in a shack some distance from the village. His father was a goatherd as well, until he died. Peter's family is not wealthy, and he was used to going hungry until he befriended Heidi. He is an indifferent student, and is somewhat notorious for his appetite and academic incompetence; however, towards the end of the animated series he discovers a natural talent at carpentry.
+Clara Sesemann (クララ・ゼーゼマン, Kurara Zēzeman)
+Clara is the 12-year-old daughter of a wealthy wine merchant who due to professional and personal reasons spends most of his time away from his home in Frankfurt since his wife's death. Because her legs are paralyzed (the exact cause is left unknown, but it is hinted to be due to a long-term illness), Clara has spent a lonely life in her home; therefore the Sesemann housekeeper, Miss Rottenmeier, has publicized a request for a playmate, which Heidi's aunt Dete answered.</p>
+      <p>In 1967, future Zuiyo founder Shigeto Takahashi, manager of TCJ at the time, produced a 5-minute pilot short for a series based on Johanna Spyri's novel, but the project was shelved until the new studio was founded. The series finally went into production in 1973, when a new pilot with character design by Yasuji Mori was produced as a test. This work however was never shown publicly and what remain of it are only a few cels and concept arts.</p>
+    </article>
+  </main>
+
+  <aside>
+    <section>
+      <h2>Share</h2>
+      <ul>
+        <li><a href="#">Facebook</a></li>
+        <li><a href="#">Twitter</a></li>
+        <li><a href="#">Email</a></li>
+      </ul>
+    </section>
+    <section>
+      <h2>Recommended</h2>
+      <ul>
+        <li>
+          <article>
+            <h3><a href="#">Related article</a></h3>
+            <p>Article description</p>
+          </article>
+        </li>
+        <li>
+          <article>
+            <h3><a href="#">Related article</a></h3>
+            <p>Article description</p>
+          </article>
+        </li>
+      </ul>
+    </section>
+  </aside>
+
+  <footer>
+    <ul>
+      <li><a href="#">Official website (in Japanese)</a></li>
+      <li><a href="#">Heidi, Girl of the Alps at IMDb</a></li>
+      <li><a href="#">Heidi, Girl of the Alps (anime) at Anime News Network's encyclopedia</a></li>
+      <li><a href="#">Heidi Art Exhibition in 2005 at the Ghibli Museum (in English)</a></li>
+      <li><a href="#">Heidi, Girl of the Alps at IMDb</a></li>
+    </ul>
+  </footer>
+
+</body>
+</html>
